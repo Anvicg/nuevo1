@@ -1,2 +1,0 @@
-# nuevo1
-jnrkjfnvjrnjvlrjlojvñrlwmv
