@@ -9087,3 +9087,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.29-09.06.09:978][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.03.29-09.06.09:979][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
 [2023.03.29-09.06.10:024][318]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.03.29-09.06.26:242][521]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
