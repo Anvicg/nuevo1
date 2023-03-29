@@ -6349,3 +6349,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.29-06.41.52:132][909]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/rcano/OneDrive/Documentos/GitHub/Pong-colab/nuevo1/Pong_intento3/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2023.03.29-06.41.52:132][909]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/rcano/OneDrive/Documentos/GitHub/Pong-colab/nuevo1/Pong_intento3/Content/Developers/rcano/Collections/' because it could not be accessed. Aborting watch request...
 [2023.03.29-06.41.52:132][909]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/rcano/OneDrive/Documentos/GitHub/Pong-colab/nuevo1/Pong_intento3/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2023.03.29-06.42.18:793][ 21]LogSlate: Took 0.005703 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.29-06.42.20:508][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.03.29-06.42.20:532][220]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PlayerVsPlayer.PlayerVsPlayer
+[2023.03.29-06.42.20:533][220]Cmd: MAP LOAD FILE="../../../../../../Users/rcano/OneDrive/Documentos/GitHub/Pong-colab/nuevo1/Pong_intento3/Content/PlayerVsPlayer.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.29-06.42.20:533][220]LightingResults: New page: Lighting Build
+[2023.03.29-06.42.20:533][220]LoadErrors: New page: Loading map: PlayerVsPlayer.umap
+[2023.03.29-06.42.20:558][220]LogWorld: UWorld::CleanupWorld for Menu_level, bSessionEnded=true, bCleanupResources=true
+[2023.03.29-06.42.20:558][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.29-06.42.20:558][220]MapCheck: New page: Map Check
+[2023.03.29-06.42.20:558][220]LightingResults: New page: Lighting Build
+[2023.03.29-06.42.20:564][220]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.29-06.42.20:567][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.03.29-06.42.20:567][220]LogAudio: Display: Audio Device (ID: 1) registered with world 'PlayerVsPlayer'.
+[2023.03.29-06.42.20:611][220]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.29-06.42.20:612][220]LogAIModule: Creating AISystem for world PlayerVsPlayer
+[2023.03.29-06.42.20:619][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.03.29-06.42.20:627][220]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.29-06.42.20:628][220]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2023.03.29-06.42.20:628][220]LogFileHelpers: Loading map 'PlayerVsPlayer' took 0.095
+[2023.03.29-06.42.23:859][593]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GoalZone.GoalZone
+[2023.03.29-06.42.24:521][593]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2023.03.29-06.42.25:228][593]LogSlate: Took 0.005097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.29-06.42.28:094][915]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.03.29-06.42.28:094][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.29-06.42.29:751][ 89]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/POng_Controller.Pong_Controller
+[2023.03.29-06.42.36:070][787]BlueprintLog: New page: Compile Pong_Controller
+[2023.03.29-06.42.36:105][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.03.29-06.42.36:136][787]LogSlate: Took 0.005827 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
